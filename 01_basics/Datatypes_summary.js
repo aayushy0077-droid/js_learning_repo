@@ -34,6 +34,6 @@ const myfunction = function() {
 
     
 }
-// console.log(typeof outsideTemp);
-// console.log(typeof scoreValue);
+console.log(typeof outsideTemp);
+console.log(typeof scoreValue);
 console.log(typeof heros);
